@@ -2,5 +2,4 @@ flask
 pdfminer.six
 openpyxl
 docx
-io
 gunicorn
