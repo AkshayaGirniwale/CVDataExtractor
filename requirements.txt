@@ -1,4 +1,4 @@
 flask
-pdfminer
+pdfminer.six
 openpyxl
 gunicorn
