@@ -1,0 +1,4 @@
+flask
+pdfminer
+openpyxl
+gunicorn
